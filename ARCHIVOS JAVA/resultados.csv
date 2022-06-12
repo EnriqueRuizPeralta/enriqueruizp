@@ -1,0 +1,16 @@
+NUMERO1,NUMERO2,NUMERO3, RESULTADO
+10,9,1,true
+5,4,1,true
+23,22,5,false
+15,10,5,true
+10,10,17,false
+30,15,15,true
+23,12,16,false
+89,57,19,false
+34,80,19,false
+70,60,15,false
+5,4,1,true
+5,4,0,false
+55,54,1,true
+77,76,1,true
+10,4,6,true
